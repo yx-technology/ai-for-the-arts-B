@@ -1,5 +1,5 @@
 <h1>Rewoven </h1> 
-<br>Upon my visit to the University of Glasgow's Archives and Special collections, it is clear how precious the items were. Operating on strict terms, there is no bags or pens allowed. Only gloved and washed hands are granted supervised access to the fragile and irreplaceable objects.</br>
+Upon my visit to the University of Glasgow's Archives and Special collections, it is clear how precious the items were. Operating on strict terms, there is no bags or pens allowed. Only gloved and washed hands are granted supervised access to the fragile and irreplaceable objects.<br>
 <br>At first glance, the catalogue reminded me of an old book read one too many times with pages spilling out from the cracked bind. Opening it was unexpectedly striking as every page contains real tapa cloth. Not image, not descriptions, but actual fabric cut out mostly into squares and bound into the pages. The book dates back to 1787, and as I tenderly flipped the pages of well-preserved fabrics, I felt an immediate and visceral connection to the past that a photograph simply could not replicate.</br>
 <br>However, that connection made me ponder. Questions surfaced: Who made each piece? Where is it from? What does the patterns mean? Why did Captain Cook have these? What was it used for?<br>
 <br>Shaw's meticulous record of these tapa clothes were evidence of the civilisation that Captain Cook encountered during his voyage. Yet despite preservation attempts, key contextual information was still missing.</br>
@@ -16,3 +16,4 @@
 
 <h2>Part II - Needle and thread</h2>
 <h2>Part III - Mirror mirror on the wall</h2>
+<h2>Bibliography</h2>
