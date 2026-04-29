@@ -1,9 +1,10 @@
 <h1>Rewoven </h1> 
 Upon my visit to the University of Glasgow's Archives and Special collections, it is clear how precious the items were. Operating on strict terms, there is no bags or pens allowed. Only gloved and washed hands are granted supervised access to the fragile and irreplaceable objects.<br>
-<br>At first glance, the catalogue reminded me of an old book read one too many times with pages spilling out from the cracked bind. Opening it was unexpectedly striking as every page contains real tapa cloth. Not images, not descriptions, but actual fabric cut out mostly into squares and bound into the pages. The book dates back to 1787, and as I tenderly flipped the pages of well-preserved fabrics, I felt an immediate and visceral connection to the past that a photograph simply could not replicate.<br>
-<br>However, that connection made me ponder. Who made each piece? Where is it from? What do the patterns mean? Why did Captain Cook have these? What was it intended to be used for?<br>
-<br>Shaw's meticulous record of these tapa clothes were evidence of the civilisation that Captain Cook encountered during his voyage. Yet despite preservation attempts, key contextual information was still missing.<br>
-<br>So join me in a jounrey to discovery the secrets of the tapa cloths and how it can change our perspective on modern day cloth manufacturing.
+<br>At first glance, the catalogue reminded me of an old book read one too many times with pages spilling out from the cracked spine. Opening it was unexpectedly striking as every page contains real tapa cloth. Not images, not descriptions, but actual fabric cut out mostly into squares and bound into the pages. The book dates back to 1787, and as I tenderly flipped the pages of well-preserved fabrics, I felt an immediate and visceral connection to the past that a photograph simply could not replicate.<br>
+<br>Yet that connection raised questions. Who made each piece? Where is it from? What do the patterns mean? Why did Captain Cook have these? What was it intended to be used for?<br>
+<br>Shaw's meticulous record of these tapa clothes were evidence of the civilisation that Captain Cook encountered during his voyage. Despite preservation attempts, key contextual information remains missing and the human stories behind these cloths have largely been lost.<br>
+<br>This project sets out to investigate the cultural provenance of these tapa cloth samples and to use generative AI, specifically image generation tool DALL-E and large language model Chat-GPT, to speculatively reconstruct the missing narratives. By making visible the makers and meanings that the colonial catalogue could not record, I aim to invite a general audience to question how the circumstances of collection have shaped what we know, and don't know, about Pacific material culture and its relationship to contemporary textile practice.
+<br>So join me on this journey as we discover the secrets of the tapa cloths.
 
 <h3>All aboard!</h3>
 <em>Before proceeding, let's take a look at our map for this voyage...</em><br>
@@ -60,5 +61,6 @@ The tapa samples in this catalogue are two and a half centuries old. They are st
 All is not lost as we might find the solution we seek in modern day technologies. Find out more in our next stop!
 
 <h2>Part II - Needle and thread</h2>
+
 <h2>Part III - Mirror mirror on the wall</h2>
 <h2>Bibliography</h2>
