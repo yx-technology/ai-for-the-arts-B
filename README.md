@@ -63,6 +63,34 @@ All is not lost as we might find the solution we seek in modern day technologies
 
 <h2>Part II - Needle and thread</h2>
 
+<u>Methodology</u>
+
+Step 1 — Identifying the Gap
+After my visit to the Special Collections and researching Shaw's catalogue, it became clear that the most significant thing missing was not text — it was visual context. The cloth itself survived. The people who made it, the ceremonies it was part of, the communities it came from — none of that was captured. Shaw recorded what the cloth looked like. He did not record what it meant.
+I kept coming back to the same question: what would this project look like if the makers had controlled the frame instead of the collectors? That question couldn't be answered through research alone. I needed a tool that could generate something that no archive could supply — a way of making absence visible rather than just describing it.
+
+Step 2 — Choosing DALL-E
+I chose DALL-E 3 because the gap I was trying to address was fundamentally a visual one. A language model could help me write around the silence in Shaw's catalogue, but it couldn't show it. DALL-E 3 is a text-to-image generation model developed by OpenAI, trained on large datasets of images and their descriptions. Given a written prompt, it generates an original image — which meant I could describe cultural contexts that no photograph exists of and produce a visual reconstruction of what Shaw never recorded.
+I also chose it because it was generative rather than analytical. I wasn't trying to describe the cloth that exists. I was trying to imagine what surrounded it before it became a specimen in a European catalogue.
+
+Step 3 — Designing the Prompts
+I structured the generation around the three critical angles I identified during the object analysis phase: colonial power dynamics, fragmented documentation, and cultural preservation. Each angle became one image, and each image required a prompt that was specific enough to produce something meaningful but framed carefully enough to avoid misrepresenting Pacific cultures.
+Writing the prompts took longer than I expected. I had to make active decisions about whose perspective the image centred, what the scene was permitted to claim, and where the line was between speculative reconstruction and cultural appropriation. These were human decisions — the AI had no way of making them.
+The three prompts were:
+
+Generation 1 — The moment of collection, reconstructed from the perspective of the makers rather than the collectors
+Generation 2 — A tapa sample speculatively reconstructed as it may have looked in its original condition, before colonial handling and time altered it
+Generation 3 — The cloth in active ceremonial use within its source community, before it became a specimen
+
+
+Step 4 — Running the Generations and Reading the Revisions
+When I ran each prompt through DALL-E 3, something immediately interesting happened: the model automatically revised my prompts before generating. DALL-E 3 does this as standard — it rewrites the input based on its own training and content guidelines before producing the image.
+I printed the revised prompt alongside every output. The gap between what I wrote and what DALL-E generated from became one of the most analytically useful things in the project. In several cases, the model softened or reframed elements of my prompt in ways that reflected the assumptions built into a Western-trained AI system. That divergence — between my cultural intention and the model's interpretation — is itself evidence of the limitations of applying contemporary AI tools to non-Western heritage objects.
+
+Step 5 — Deciding What the Outputs Were Allowed to Mean
+Generating the images was only part of the process. The harder work was deciding how to frame them. Each output required me to assess: is this culturally sensitive? Is it accurate enough to be useful? Does it centre the right perspective? Is it making a claim it shouldn't?
+None of those questions have algorithmic answers. They required me to bring the archival research, the critical angles, and my own ethical judgment to bear on what the AI produced. The images are speculative reconstructions — not historical fact, not authoritative representations of Pacific culture. That framing was a human decision made deliberately, at every stage.
+The extent to which this collaboration produced something neither I nor the AI could have achieved alone is what the next section evaluates.
 
 <h2>Part III - Mirror mirror on the wall</h2>
 <h2>Bibliography</h2>
