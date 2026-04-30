@@ -91,7 +91,7 @@ I kept coming back to the same question: What secrets are these cloiths holding 
 The gap I was trying to address was both visual and contextual, and so a generative image model felt like the most direct way in. DALL-E 2 is a text-to-image generation model developed by OpenAI. Given a written prompt, it generates an original image from scratch. That meant that I could describe cultural contexts that no photograph exists of and receive a speculative visual reconstruction of them in return.What appealed to me about this tool specifically was that it is generative rather than analytical. I wasn't trying to describe the cloth that already exists in the archive. I was trying to imagine what surrounded it before it was cut up and stitched into a collector's book. DALL-E 2 gave me a way to ask questions like who made it and what it was for, visually rather than just in writing. 
 
 <strong>Step 3 - Designing the Dall-E prompts</strong><br>
-> Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_generator.ipynb)
+> Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [Dall-E 2 Prompt Log](ai_generator.ipynb)
 
 Before I can start using the AI tools, prior research about the University of Glasgow's copy of Shaw's catalogue showed that it has yet to be digitised. Therefore, during my visit, I was able to capture a few videos and pictures. Sifting through them, I narrowed down to 4 clear shots of the samples, each with different sizes, colours, and patterns.
 
@@ -116,7 +116,7 @@ To bring this further, Microsoft Co-pilot played the role of a historian and fel
 Copilot is a large language model developed by Microsoft, built on OpenAI's GPT architecture, and capable of receiving images as inputs and producing detailed written responses about them. I used it purely as an interpreter and not to generate anything new, but rather to analyse what DALL-E had already produced. The aim was to see what a second AI system, with abit of context but no prior knowledge of the original sample, would make of the same images I had been staring at.
 
 <strong>Step 6 - Designing the Co-pilot prompts</strong><br> 
-> Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_interpreter.ipynb)
+> Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [Microsoft Copilot Prompt Log](ai_interpreter.ipynb)
 
 <strong>Step 7 - Creating a final product in Dall-E
 
