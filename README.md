@@ -8,6 +8,8 @@ Upon my visit to the University of Glasgow's Archives and Special collections, i
 <br>So join me on this journey as we discover the secrets of the tapa cloths!
 
 <h3>All aboard!</h3>
+![Image](media/
+
 <em>Before proceeding, let's take a look at our map for this voyage...</em><br>
 <br>First, we will set sail towards the land of "Once upon a time..." as we travel back in time to discover the history of the book, the origins of the tapa clothes, and learn more about the 20th century era. Our second stop is THE gold mine "Needle and Thread", where we understand how humans and AI can work together to reconstruct context, question colonial narratives, and reimagine how we engage with fragile cultural heritage. Finally, we drop our anchor at "Mirror mirror on the wall" to reflect and evaluate the results of the collaboration and what it could improve on to help us in our next voyage.
 <br>Are you ready? Let's begin!
@@ -65,19 +67,23 @@ All is not lost as we might find the solution we seek in modern day technologies
 
 <u>Methodology</u>
 
-Step 1 — Identifying the Gap
+Step 1 - Identifying the Gap
 After my visit to the Special Collections and researching Shaw's catalogue, it was clear that the most significant thing missing was context, both visual and text. Yes, the cloth survived. But everything else did not. From the people who made it to the ceremonies it was part of and the communities it came from, none of that was captured. Shaw recorded what the cloth looked like but not what it meant.
 
 I kept coming back to the same question: What secrets are these cloiths holding that could be of relevance to modern day textile industry? That question couldn't be answered through research alone. I needed a tool that could generate something that no archive could supply, a way of making absence visible rather than just describing it. But I also needed a way of interrogating the results produced, separating from my own assumptions. That led me to two tools used in sequence: DALL-E 3 to generate, and Microsoft Copilot to interpret.
 
-Step 2 — Choosing DALL-E 2
+Step 2 - Choosing DALL-E 2
 The gap I was trying to address was both visual and contextual, and so a generative image model felt like the most direct way in. DALL-E 2 is a text-to-image generation model developed by OpenAI. Given a written prompt, it generates an original image from scratch. That meant that I could describe cultural contexts that no photograph exists of and receive a speculative visual reconstruction of them in return.What appealed to me about this tool specifically was that it is generative rather than analytical. I wasn't trying to describe the cloth that already exists in the archive. I was trying to imagine what surrounded it before it was cut up and stitched into a collector's book. DALL-E 3 gave me a way to ask questions like who made it and what it was for, visually rather than just in writing. 
 
-Step 3 - Before I can start using the AI tools, prior research about the University of Glasgow's copy of Shaw's catalogue showed that it has yet to be digitised. Therefore, during my visit, I was able to capture a few videos and pictures. Sifting through them, I narrowed down to 4 clear shots of the samples, each with different sizes, colours, and patterns.
+Step 3 - Designing the Dall-E prompts 
+Before I can start using the AI tools, prior research about the University of Glasgow's copy of Shaw's catalogue showed that it has yet to be digitised. Therefore, during my visit, I was able to capture a few videos and pictures. Sifting through them, I narrowed down to 4 clear shots of the samples, each with different sizes, colours, and patterns.
 
 When uploading the samples to Dall-E, I experimented with both the prompts and the samples. Because it was of varying degrees of sizes, the samples yielded differing results, each with its own interpretation. Formation and analysing of the prompts and outputs were not something AI could sit and reflect about on its own without my intervention. However, minor tweaks proved to be helpful as I was able to find the right direction in which AI was able to produce an image of what the cloth samples could have looked liked before being cut up and preserved in the book. 
 
-<em>Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_generator.ipynb)<em>
+Step 4 - Analysing the outputs\
+
+
+<h6>Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_generator.ipynb)</h6>
 
 <h2>Part III - Mirror mirror on the wall</h2>
 <h2>Bibliography</h2>
