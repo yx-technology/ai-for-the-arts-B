@@ -120,7 +120,7 @@ Copilot is a large language model developed by Microsoft, built on OpenAI's GPT 
 
 <strong>Step 7 - Creating a final product in Dall-E
 
-<img src="media/Comic strip.png" width="500">
+<img src="media/Comic strip.png" width="800">
 
 </details>
 
