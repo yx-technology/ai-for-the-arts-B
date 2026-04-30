@@ -3,7 +3,7 @@ Upon my visit to the University of Glasgow's Archives and Special collections, i
 <br>At first glance, the catalogue reminded me of an old book read one too many times with pages spilling out from the cracked spine. Opening it was unexpectedly striking as every page contains real tapa cloth. Not images, not descriptions, but actual fabric cut out mostly into squares and bound into the pages. The book dates back to 1787, and as I tenderly flipped the pages of well-preserved fabrics, I felt an immediate and visceral connection to the past that a photograph simply could not replicate.<br>
 <br>Yet that connection raised questions. Who made each piece? Where is it from? What do the patterns mean? Why did Captain Cook have these? What was it intended to be used for?<br>
 <br>Shaw's meticulous record of these tapa clothes were evidence of the civilisation that Captain Cook encountered during his voyage. Despite preservation attempts, key contextual information remains missing and the human stories behind these cloths have largely been lost.<br>
-<br>This project sets out to investigate the cultural provenance of these tapa cloth samples and to use generative AI, specifically image generation tool DALL-E and large language model Chat-GPT, to speculatively reconstruct the missing narratives. By making visible the makers and meanings that the colonial catalogue could not record, I aim to invite a general audience to question how the circumstances of collection have shaped what we know, and don't know, about Pacific material culture and its relationship to contemporary textile practice.<br>
+<br>This project sets out to investigate the cultural provenance of these tapa cloth samples and to use generative AI, specifically image generation tool DALL-E and large language model Microsoft Co-pilot, to speculatively reconstruct the missing narratives. By making visible the makers and meanings that the colonial catalogue could not record, I aim to invite a general audience to question how the circumstances of collection have shaped what we know, and don't know, about Pacific material culture and its relationship to contemporary textile practice.<br>
 
 <br>So join me on this journey as we discover the secrets of the tapa cloths!
 
@@ -46,9 +46,9 @@ The making of these Polynesian cloths starts by stripping a bark from a tree and
 The locations represented in Shaw's catalogue are mainly Tahiti, Mo'orea, Raiatea, Bora Bora, Huahine, New Zealand, Easter Island, the Marquesas Islands, Fiji, Tonga, and Hawaii (Wilson, L.,2003). Precise origins for individual samples are, in most cases, unknown.
 
 [World Intellectual Property Organisation](https://www.wipo.int/en/web/ip-advantage/w/stories/tapa-cloth-an-ancient-fijian-craft-revisited-by-creations-23)
-[Penn Museum](https://www.penn.museum/sites/expedition/captain-cooks-barkcloth-books/)
-[RSID Museum](https://risdmuseum.org/exhibitions-events/exhibitions/cloth-without-weaving)
-[University of Cambridge](https://www.repository.cam.ac.uk/items/c9d5d370-2bfe-4529-a088-1aa3f0485a7f)
+<br>[Penn Museum](https://www.penn.museum/sites/expedition/captain-cooks-barkcloth-books/)
+<br>[RSID Museum](https://risdmuseum.org/exhibitions-events/exhibitions/cloth-without-weaving)
+<br>[University of Cambridge](https://www.repository.cam.ac.uk/items/c9d5d370-2bfe-4529-a088-1aa3f0485a7f)
 
 <h3>The Gap</h3>
 Shaw's catalogue records what the cloth looks like. But what it fails to record is who made each piece, what the patterns signified, or what it meant to the people it belonged to before it was collected. There is a huge amount of lost knowledge about the kinds of trees used, dyes, and the range of oils and resins used to prepare surfaces. During the eighteenth and nineteenth centuries, tapa constituted everyday clothing, a wrapping for spiritually powerful artifacts, a marker of identity and status, and a storable commodity analogous to currency, none of which was captured in Shaw's numbered list.<br><br>
@@ -66,31 +66,18 @@ All is not lost as we might find the solution we seek in modern day technologies
 <u>Methodology</u>
 
 Step 1 — Identifying the Gap
-After my visit to the Special Collections and researching Shaw's catalogue, it became clear that the most significant thing missing was not text — it was visual context. The cloth itself survived. The people who made it, the ceremonies it was part of, the communities it came from — none of that was captured. Shaw recorded what the cloth looked like. He did not record what it meant.
-I kept coming back to the same question: what would this project look like if the makers had controlled the frame instead of the collectors? That question couldn't be answered through research alone. I needed a tool that could generate something that no archive could supply — a way of making absence visible rather than just describing it.
+After my visit to the Special Collections and researching Shaw's catalogue, it was clear that the most significant thing missing was context, both visual and text. Yes, the cloth survived. But everything else did not. From the people who made it to the ceremonies it was part of and the communities it came from, none of that was captured. Shaw recorded what the cloth looked like but not what it meant.
 
-Step 2 — Choosing DALL-E
-I chose DALL-E 3 because the gap I was trying to address was fundamentally a visual one. A language model could help me write around the silence in Shaw's catalogue, but it couldn't show it. DALL-E 3 is a text-to-image generation model developed by OpenAI, trained on large datasets of images and their descriptions. Given a written prompt, it generates an original image — which meant I could describe cultural contexts that no photograph exists of and produce a visual reconstruction of what Shaw never recorded.
-I also chose it because it was generative rather than analytical. I wasn't trying to describe the cloth that exists. I was trying to imagine what surrounded it before it became a specimen in a European catalogue.
+I kept coming back to the same question: What secrets are these cloiths holding that could be of relevance to modern day textile industry? That question couldn't be answered through research alone. I needed a tool that could generate something that no archive could supply, a way of making absence visible rather than just describing it. But I also needed a way of interrogating the results produced, separating from my own assumptions. That led me to two tools used in sequence: DALL-E 3 to generate, and Microsoft Copilot to interpret.
 
-Step 3 — Designing the Prompts
-I structured the generation around the three critical angles I identified during the object analysis phase: colonial power dynamics, fragmented documentation, and cultural preservation. Each angle became one image, and each image required a prompt that was specific enough to produce something meaningful but framed carefully enough to avoid misrepresenting Pacific cultures.
-Writing the prompts took longer than I expected. I had to make active decisions about whose perspective the image centred, what the scene was permitted to claim, and where the line was between speculative reconstruction and cultural appropriation. These were human decisions — the AI had no way of making them.
-The three prompts were:
+Step 2 — Choosing DALL-E 2
+The gap I was trying to address was both visual and contextual, and so a generative image model felt like the most direct way in. DALL-E 2 is a text-to-image generation model developed by OpenAI. Given a written prompt, it generates an original image from scratch. That meant that I could describe cultural contexts that no photograph exists of and receive a speculative visual reconstruction of them in return.What appealed to me about this tool specifically was that it is generative rather than analytical. I wasn't trying to describe the cloth that already exists in the archive. I was trying to imagine what surrounded it before it was cut up and stitched into a collector's book. DALL-E 3 gave me a way to ask questions like who made it and what it was for, visually rather than just in writing. 
 
-Generation 1 — The moment of collection, reconstructed from the perspective of the makers rather than the collectors
-Generation 2 — A tapa sample speculatively reconstructed as it may have looked in its original condition, before colonial handling and time altered it
-Generation 3 — The cloth in active ceremonial use within its source community, before it became a specimen
+Step 3 - Before I can start using the AI tools, prior research about the University of Glasgow's copy of Shaw's catalogue showed that it has yet to be digitised. Therefore, during my visit, I was able to capture a few videos and pictures. Sifting through them, I narrowed down to 4 clear shots of the samples, each with different sizes, colours, and patterns.
 
+When uploading the samples to Dall-E, I experimented with both the prompts and the samples. Because it was of varying degrees of sizes, the samples yielded differing results, each with its own interpretation. Formation and analysing of the prompts and outputs were not something AI could sit and reflect about on its own without my intervention. However, minor tweaks proved to be helpful as I was able to find the right direction in which AI was able to produce an image of what the cloth samples could have looked liked before being cut up and preserved in the book. 
 
-Step 4 — Running the Generations and Reading the Revisions
-When I ran each prompt through DALL-E 3, something immediately interesting happened: the model automatically revised my prompts before generating. DALL-E 3 does this as standard — it rewrites the input based on its own training and content guidelines before producing the image.
-I printed the revised prompt alongside every output. The gap between what I wrote and what DALL-E generated from became one of the most analytically useful things in the project. In several cases, the model softened or reframed elements of my prompt in ways that reflected the assumptions built into a Western-trained AI system. That divergence — between my cultural intention and the model's interpretation — is itself evidence of the limitations of applying contemporary AI tools to non-Western heritage objects.
-
-Step 5 — Deciding What the Outputs Were Allowed to Mean
-Generating the images was only part of the process. The harder work was deciding how to frame them. Each output required me to assess: is this culturally sensitive? Is it accurate enough to be useful? Does it centre the right perspective? Is it making a claim it shouldn't?
-None of those questions have algorithmic answers. They required me to bring the archival research, the critical angles, and my own ethical judgment to bear on what the AI produced. The images are speculative reconstructions — not historical fact, not authoritative representations of Pacific culture. That framing was a human decision made deliberately, at every stage.
-The extent to which this collaboration produced something neither I nor the AI could have achieved alone is what the next section evaluates.
+<em>Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_generator.ipynb)<em>
 
 <h2>Part III - Mirror mirror on the wall</h2>
 <h2>Bibliography</h2>
