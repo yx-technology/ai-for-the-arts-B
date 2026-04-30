@@ -118,6 +118,9 @@ Copilot is a large language model developed by Microsoft, built on OpenAI's GPT 
 <strong>Step 6 - Designing the Co-pilot prompts</strong><br> 
 > Full prompt log including all original prompts, DALL-E outputs, and follow-up prompts available in [ai-for-the-arts-B](ai_interpreter.ipynb)
 
+<strong>Step 7 - Creating a final product in Dall-E
+
+<img src="media/Comic strip.jpg" width="500">
 
 </details>
 
