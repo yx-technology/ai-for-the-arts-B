@@ -87,7 +87,7 @@ After my visit to the Special Collections and researching Shaw's catalogue, it w
 
 I kept coming back to the same question: What secrets are these cloths holding that could be of relevance to modern day textile industry? That question couldn't be answered through research alone. I needed a tool that could generate something that no archive could supply, a way of making absence visible rather than just describing it. But I also needed a way of interrogating the results produced, separating from my own assumptions. That led me to two tools used in sequence: DALL-E 3 to generate, and Microsoft Copilot to interpret.
 
-<strong>Step 2 - Choosing DALL-E 2</strong><br>
+<strong>Step 2 - Choosing [DALL-E 2](https://openai.com/index/dall-e-2/)</strong><br>
 The gap I was trying to address was both visual and contextual, and so a generative image model felt like the most direct way in. DALL-E 2 is a text-to-image generation model developed by OpenAI. Given a written prompt, it generates an original image from scratch. That meant that I could describe cultural contexts that no photograph exists of and receive a speculative visual reconstruction of them in return.What appealed to me about this tool specifically was that it is generative rather than analytical. I wasn't trying to describe the cloth that already exists in the archive. I was trying to imagine what surrounded it before it was cut up and stitched into a collector's book. DALL-E 2 gave me a way to ask questions like who made it and what it was for, visually rather than just in writing. 
 
 <strong>Step 3 - Designing the Dall-E prompts</strong><br>
@@ -112,7 +112,7 @@ This is where the limits of the exercise became most visible. Indigenous communi
 
 To bring this further, Microsoft Co-pilot played the role of a historian and fellow scholar, allowing me to take an extrapolated image generated from these samples and add context to it. The results would then discuss the history of these tapa cloths, Cook's possible experience at the time of voyage, and the relationship of the Pacific region and modern textile industry. 
 
-<strong>Step 5 - Choosing Microsoft Co-pilot</strong><br> 
+<strong>Step 5 - Choosing [Microsoft Co-pilot](https://copilot.microsoft.com)</strong><br> 
 Copilot is a large language model developed by Microsoft, built on OpenAI's GPT architecture, and capable of receiving images as inputs and producing detailed written responses about them. I used it purely as an interpreter and not to generate anything new, but rather to analyse what DALL-E had already produced. The aim was to see what a second AI system, with abit of context but no prior knowledge of the original sample, would make of the same images I had been staring at.
 
 <strong>Step 6 - Designing the Co-pilot prompts and analysing its output</strong><br> 
