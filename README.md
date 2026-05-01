@@ -154,4 +154,4 @@ The anchor is dropped but the voyage isn't over.
 </details>
 
 
-<h1><em>To be continued...</em></h1>
+<h1><em>Bon voyage!</em></h1>
