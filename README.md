@@ -131,7 +131,7 @@ Two things stood out in its response.
 
 What Copilot could not do and what I had to do, was sit with those questions without resolving them. A large language model is not yet capable of stepping outside its own frame to evaluate what it has produced without an external prompt. That kind of reflexive judgment, the ability to interrogate your own conclusions, to hold uncertainty without collapsing it into a neat answer is something humans do instinctively. It is also what this project required at every stage.
 
-<h5><strong>Extra!</strong></h5>
+<h5>Extra!</h5>
 For this project, I created a comic strip using Dall-E to further illustrate the journey I hope to bring to the general audience. 
 
 <img src="media/Comic strip.png" width="800">
@@ -142,7 +142,8 @@ Let's take a pause as we face the horizon and take a look at what we achieved!
 
 <details>
   <summary><h2>Part III - Mirror mirror on the wall</h2></summary>
-  <h3>What did we actually produce?</h3>
+  <details>
+  <summary><h3>What did we actually produce?</h3></summary>
 This section steps back from the process and asks the harder question: did any of this work?
 
 <br>Beyond the technical sense, did the Human-AI collaboration produce something meaningful? Did it get closer to the secrets these cloths might be holding? And did it do so in a way that neither a human researcher nor an AI system could have achieved working alone?
@@ -160,6 +161,10 @@ What surprised me was the Moana prompt. I had not planned to ask Copilot about a
 
 On the Lovelace Test, this project passes narrowly albeit in an unexpected place.
 
+[Bringsjord, S., Bello, P. & Ferrucci, D. (2001). Creativity, the Turing Test, and the (Better) Lovelace Test. *Minds and Machines*, 11, 3–27.](https://link.springer.com/article/10.1023/A:1011206622741)
+<br>[Riedl, M. O. (2014). The Lovelace 2.0 Test of Artificial Creativity and Intelligence. *arXiv.*](https://arxiv.org/pdf/1410.6142)
+<br>[Benarous Cyber Academy. (2025). The Lovelace Test — Creativity as the Measure of Machine Intelligence.](https://benarous-academy.com/the-lovelace-test-creativity-as-the-measure-of-machine-intelligence/)
+
 <h4>Boden's Framework</h4>
 Margaret Boden identifies three forms of creativity, combinational, exploratory, and transformational. Combinational creativity produces new ideas by connecting existing ones. Exploratory creativity works within an established conceptual space to find what it contains. Transformational creativity changes the space itself.  
 
@@ -169,6 +174,11 @@ DALL-E combined visual knowledge from its training data with the specific cultur
 The Copilot conversations were more exploratory. Asking what is still not known about these cloths pushed Copilot to map the edges of the existing conceptual space such as the limits of provenance documentation, the fragmentation of oral traditions, the unresolved questions of repatriation. It did not transform the space. Instead, it made its boundaries more visible than any single piece of research had done.
 
 The closest this project comes to transformational creativity is in the reframing of the cloth itself, going from artefact to living record, from specimen to cultural evidence, and from archive object to potential taonga awaiting return. That reframing was not produced by either AI tool alone. It emerged from the combination of DALL-E's speculative generation, Copilot's contextual interpretation, and the human judgment applied to both. Whether that constitutes genuine transformation of the conceptual space around Shaw's catalogue is a question this project opens rather than closes.
+
+[Boden, M. A. (2010). *Creativity and Art: Three Roads to Surprise.* Oxford University Press.](https://global.oup.com/academic/product/creativity-and-art-9780199590735)
+<br>[Boden, M. A. (2004). *The Creative Mind: Myths and Mechanisms* (2nd ed.). Psychology Press.](https://www.researchgate.net/publication/209436199_Creativity_in_a_nutshell)
+<br>[Boden, M. A. (2009). Creativity in a nutshell. *Think*, 5, 83–96.](https://www.researchgate.net/publication/209436199_Creativity_in_a_nutshell)
+<br>[Björklund, T. et al. (2022). Toward Radical Creativity report. Aalto University.](https://divingintoradicalcreativity.aalto.fi/sub-chapter/1-3-aspects-of-radical-creativity/)
 
 <h4>The Ridler Test</h4>
 The Ridler Test is the most direct: does the Human-AI collaboration produce something that neither the human nor the AI could have achieved alone?  
@@ -183,7 +193,12 @@ The pipeline from human judgment, DALL-E generation, Copilot interpretation, and
 
 On the Ridler Test, this project passes.
 
-<h3>What didn't work</h3>
+[Ridler, A. (n.d.). Artist portfolio and research.](http://annaridler.com)
+<br>[Ars Electronica / AI Lab. (2021). Artificial Intelligence and Creativity. Springer Nature.](https://link.springer.com/chapter/10.1007/978-3-031-24869-6_7)
+</details>
+
+<details>
+  <summary><h3>What didn't work</h3></summary>
 
 
 Honest evaluation requires saying what fell short.
@@ -193,8 +208,10 @@ DALL-E's tendency to incorporate the surrounding page into its generations was a
 The sample size problem was more fundamental. Smaller samples produced vague generations that could not be meaningfully interpreted. Larger samples produced richer outputs but introduced the risk of false specificity as the model extrapolating a complete cloth from a fragment in ways that may have had no basis in the original object. There is no way of knowing, from the archive alone, whether a large sample came from a large cloth or a section of something far more varied.
 
 Copilot's responses, while useful, were inconsistent. On some questions it produced genuinely critical analysis. On others it defaulted to surface description that added little beyond what a general search could have provided. As a large language model it is not yet capable of evaluating its own outputs without an external prompt, a limitation that required constant human intervention to compensate for.
+</details>
 
-<h3>Social Implications</h3>
+<details>
+  <summary><h3>Social Implications</h3></summary>
 Using AI to engage with colonial heritage objects is not a neutral act. Several implications deserve direct acknowledgement.
 
 <br>Cultural ownership - The tapa samples in Shaw's catalogue are not simply historical artefacts. For Pacific communities, they are taonga, ancestral treasures with living significance. Using AI to generate speculative reconstructions of their cultural context raises questions about who has the right to do so, and on whose terms. This project does not resolve those questions. It tries to hold them openly rather than paper over them.
@@ -204,8 +221,10 @@ The limits of digitisation - Indigenous communities do not always have access to
 Repatriation - As Copilot surfaced in the third conversation similar to how I felt holding the catalogue, the question of where these cloths should ultimately go is unresolved. Digitisation, if done carefully and in partnership with source communities, could be a step toward making return possible. But the question of where and to whom is one neither Cook's journals nor this project can answer with any specificity.
 
 Research integrity - Every image generated by DALL-E in this project is attributed as AI-generated speculative reconstruction, not historical representation. Every Copilot response is presented as AI output, not scholarly authority. The distinction matters. This project uses AI to open questions, not to answer them.
+</details>
 
-<h3>What this project is, and isn't</h3>
+<details>
+  <summary><h3>What this project is, and isn't</h3></summary>
 
 Rewoven does not recover what colonialism erased. It cannot. The names of the makers are not in any archive. The meanings of the patterns are not fully documented anywhere. The specific island origins of individual samples remainunknown in most cases, a limitation that AI reflects rather than resolves.
 
@@ -213,11 +232,22 @@ What this project does is make the silence visible. It uses speculative generati
 
 The question I started with of what secrets are these cloths holding that could be of relevance to the modern day textile industry remains partly open. What the project surfaced is that those secrets are not just technical. They are about pattern as evidence of civilisation. About cloth as living record. About the difference between an object that is preserved and one that is understood.
 
-The anchor is dropped. But the voyage isn't over.
+<br>[The Decision Lab. (n.d.). Human-AI Collaboration.](https://thedecisionlab.com/reference-guide/computer-science/human-ai-collaboration)
+<br>[Human-AI Co-Creativity: Exploring Synergies Across Levels of Creative Collaboration. (2024). *arXiv.*](https://arxiv.org/html/2411.12527v2)
+<br>[MIT Technology Review. (2023). AI just beat a human test for creativity. What does that even mean?](https://www.technologyreview.com/2023/09/14/1079465/ai-just-beat-a-human-test-for-creativity-what-does-that-even-mean/)
+<br>[Hubert, K. F., Awa, K. N. & Zabelina, D. L. (2024). The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks. *Scientific Reports.*](https://news.uark.edu/articles/69688/ai-outperforms-humans-in-standardized-tests-of-creative-potential)
+<br>[Te Ara — Encyclopedia of New Zealand. (n.d.). Māori and museums — ngā whare taonga.](https://teara.govt.nz/en/maori-and-museums-nga-whare-taonga/page-1)
+<br>[Tapsell, P. & Schorch, P. (2022). Taonga in a digital world: Māori adornment and the possibilities of reconnection. *Journal of the Royal Society of New Zealand*, 53(3).](https://pmc.ncbi.nlm.nih.gov/articles/PMC11459741/)
+<br>[International Council of Museums. (2014). Mana Taonga — power to the people.](https://icom.museum/en/news/mana-taonga-power-to-the-people/)
+<br>[Metropolitan Museum of Art. (2022). Immaterial: Sharing Taonga at The Pacific Virtual Museum.](https://www.metmuseum.org/perspectives/immaterial-jade-pacific-virtual-museum)
+<br>[Te Papa Blog. (2024). Museum collecting: Acknowledging our Colonial past.](https://blog.tepapa.govt.nz/2024/09/30/museum-collecting-acknowledging-our-colonial-past/)
+<br>[Shaw, A. (1787). A Catalogue of the Different Specimens of Cloth Collected in the Three Voyages of Captain Cook, to the Southern Hemisphere. University of Glasgow Special Collections, Sp Coll Hunterian K.5.22.](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/oct2007.html)
+<br>[MacLean, R. (2015). Alexander Shaw's curious cloth catalogue. University of Glasgow Library Blog.](https://universityofglasgowlibrary.wordpress.com/2015/11/26/alexander-shaws-curious-cloth-catalogue/)
+</details>
+
+The anchor is dropped but the voyage isn't over.
 
 </details>
 
 
-
-
-<h2>Bibliography</h2>
+<h1><em>To be continued...</em></h1>
