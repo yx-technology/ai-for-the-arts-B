@@ -18,8 +18,6 @@ Upon my visit to the University of Glasgow's Archives and Special collections, i
 
 <details>
   <summary><h2>Part I - Once upon a time...</h2></summary>
-
-  Click to find out more!
   
   <details>
     <summary><h3>The Voyages</h3></summary>
